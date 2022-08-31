@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <LinearLayout
+        android:id="@+id/user_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_profile_pic"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_baseline_person_24"
+            android:layout_weight=".2"
+            />
+
+        <LinearLayout
+            android:id="@+id/name_and_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            >
+
+            <TextView
+                android:id="@+id/username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="username"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                />
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="fullName"
+                android:textSize="10dp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/follow_and_following"
+            android:layout_width="60dp"
+            android:layout_height="20dp"
+            android:text="Follow"
+            android:layout_weight=".5"
+            android:background="@drawable/outline_box"
+            android:textSize="15dp"
+            android:textAllCaps="false"
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
