@@ -62,6 +62,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         }, splash_screen_time_out);
 
+        // login activity comment
 
     }
 
