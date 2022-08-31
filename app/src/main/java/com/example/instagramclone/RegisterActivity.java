@@ -150,6 +150,7 @@ public class RegisterActivity extends AppCompatActivity {
                         Toast.makeText(RegisterActivity.this, "failure", Toast.LENGTH_SHORT).show();
                     }
                 });
+        // register activity comment
 
     }
 
