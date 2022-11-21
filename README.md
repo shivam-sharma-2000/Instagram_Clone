@@ -56,7 +56,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <img src="https://github.com/shivam-sharma-2000/tes/blob/main/assets/WhatsApp%20Image%202022-11-21%20at%207.21.52%20PM%20(1).jpeg" alt="Logo" width="200">
+</div>
+<!--[![user profile screenshot ][product-screenshot]] -->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +136,7 @@ Project Link: [https://github.com/shivam-sharma-2000/Instagram_Clone/](https://g
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/shivam-sharma-9290a7217/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/shivam-sharma-2000/tes/blob/main/assets/WhatsApp%20Image%202022-11-21%20at%207.21.52%20PM%20(1).jpeg
 [Java]: https://img.shields.io/badge/java-000000?style=for-the-badge&logoColor=white
 [Java-url]: https://java.com/
 [Firebase]: https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logoColor=61DAFB
