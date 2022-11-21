@@ -57,7 +57,21 @@
 ## About The Project
 
 <div align="center">
-  <img src="https://github.com/shivam-sharma-2000/tes/blob/main/assets/WhatsApp%20Image%202022-11-21%20at%207.21.52%20PM%20(1).jpeg" alt="Logo" width="200">
+    <table>
+        <tr>
+            <td>
+                <img src="https://github.com/shivam-sharma-2000/tes/blob/main/assets/WhatsApp%20Image%202022-11-21%20at%207.21.52%20PM.jpeg" alt="home page" width="200">
+            </td>
+          <td width ="20"></td>
+          <td>
+                <img src="https://github.com/shivam-sharma-2000/tes/blob/main/assets/WhatsApp%20Image%202022-11-21%20at%207.21.52%20PM%20(1).jpeg" alt="user profile" width="200">
+          </td>
+          <td width ="20"></td>
+          <td>
+               <img src="https://github.com/shivam-sharma-2000/tes/blob/main/assets/WhatsApp%20Image%202022-11-21%20at%207.21.53%20PM.jpeg" alt="edit page" width="200"> 
+          </td>
+        </tr>
+    </table>
 </div>
 <!--[![user profile screenshot ][product-screenshot]] -->
 
