@@ -68,7 +68,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![JAVA][Java]][Java-url]
 * [![Firebse][Firebase]][Firebase-url]
-* [![Xml][Xml]][Xml-url]
+* ![Xml][Xml]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,6 +117,7 @@ Project Link: [https://github.com/shivam-sharma-2000/Instagram_Clone/](https://g
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -136,8 +137,7 @@ Project Link: [https://github.com/shivam-sharma-2000/Instagram_Clone/](https://g
 [Java-url]: https://java.com/
 [Firebase]: https://img.shields.io/badge/firebase-20232A?style=for-the-badge&logoColor=61DAFB
 [Firebase-url]: https://firebase.com/
-[Xml]: https://img.shields.io/badge/xml-35495E?style=for-the-badge&logoColor=4FC08D
-[Xml-url]: 
+[Xml]: https://img.shields.io/badge/xml-35495E?style=for-the-badge&logoColor=4FC08D 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
